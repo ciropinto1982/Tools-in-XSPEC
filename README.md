@@ -1,7 +1,7 @@
 # Tools-in-XSPEC
 **Useful tools for data analysis in XSPEC**
 
-Originally created by Yerong Xu (https://github.com/yrxu)
+Main contributor: Yerong Xu (https://github.com/yrxu)
 
 **Create an XSPEC-version table model from PION/XABS in SPEX, see SPEX-to-XSPEC directory:**
 
